@@ -16,3 +16,7 @@ El informe incluye:
 - Casos de prueba.
 - Control de versiones.
 - Conclusiones.
+
+  Link Del Informe
+  https://docs.google.com/document/d/1KhOCRJdpQj85zMGNXAwNyha7eEW6WDxnr-M0_eHdgOA/edit?usp=drive_link
+  
