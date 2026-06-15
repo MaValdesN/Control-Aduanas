@@ -1,34 +1,19 @@
-# Control Aduanas
+# Control de Versiones
 
-## Integrantes
+Para el control de versiones del proyecto se utilizó GitHub, permitiendo registrar y respaldar los avances realizados durante el desarrollo del prototipo.
 
-- Martin Valdes
-- Luis Romero
+## Historial de Versiones
 
-## Descripción
-
-Sistema de gestión aduanera orientado al registro de vehículos, declaraciones aduaneras y seguimiento de trámites.
-
-## Herramientas Utilizadas
-
-- Figma
-- GitHub
-
-## Funcionalidades
-
-- Inicio de sesión con roles.
-- Gestión de vehículos.
-- Registro de declaraciones aduaneras.
-- Consulta de estado de trámites.
-- Aprobación y rechazo de declaraciones por administradores.
-
-## Estructura del Repositorio
-
-- prototipo/
-- pruebas/
-- versionado/
-- coevaluacion/
-- informe/
+| Versión | Descripción |
+|----------|------------|
+| v0.1 | Creación del repositorio y estructura inicial |
+| v0.2 | Diseño de pantalla de inicio de sesión |
+| v0.3 | Desarrollo del Dashboard principal |
+| v0.4 | Implementación de gestión de vehículos |
+| v0.5 | Desarrollo del módulo de declaraciones |
+| v0.6 | Implementación del seguimiento de trámites |
+| v0.7 | Desarrollo de revisión de declaraciones |
+| v1.0 | Integración final del prototipo |
 
 ## Repositorio
 
